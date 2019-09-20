@@ -1,0 +1,10 @@
+git add <nomearquivo> --- adicionar arquivo especifico;
+git add * --- adicionar todos os arquivos dentro desta pasta;
+git commit -m "comentários das alterações" --- confirma as mudanças e adiciona comentarios delas;
+git status --- visualiza o status do repositório, se ainda há arquivos para comitar;
+git pull --- Atualizar repositorio local (puxar do github para a sua máquina);
+git clone ---cópia de um repositório existente para o seu ambiente local;
+git push --- envia os nossos arquivos para um repositório remoto(github);
+
+
+

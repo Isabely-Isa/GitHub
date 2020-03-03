@@ -40,8 +40,9 @@ git rebase upstream/master
 
 git merge upstream/master
 
-# No entanto, para fazer com que futuros pull requests fiquem o mais
-# limpos possível, é uma boa ideia fazer o rebase.
+# caso precise forçar um push para o seu próprio repositório do Github:
+
+git push -f origin master
 
 
 
